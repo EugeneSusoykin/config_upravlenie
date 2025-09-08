@@ -1,1 +1,1 @@
-# config_uppravlenie
+# config_upravlenie
